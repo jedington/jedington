@@ -2,9 +2,9 @@
 [![👋 Hello There!](https://cdn.discordapp.com/attachments/363603833680560139/878781125395378237/hello-there.gif?raw=true)](https://www.youtube.com/watch?v=rEq1Z0bjdwc)
 
 - 🔭 On-the-job Ansible/Terraform training, [school with WGU](https://partners.wgu.edu/Pages/BSCC.aspx), & [a personal project](https://github.com/jedington/Canvas-Your-Goals) when time permits.
+- :cookie: My interests are: DevOps, Automation, Web Development, WordPress, video game modding & emulators.
 - 🌱 Currently learning/expanding in: JS, Python, RHE Linux, Ansible, Terraform.
 - :sunrise: Open to collaborate where I can help effectively.
-- :cookie: My interests are: DevOps, automation, web development, video game modding & emulators.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jedington&layout=compact&hide=matlab&langs_count=10&theme=react)
 <br/>
