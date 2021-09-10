@@ -3,7 +3,7 @@
 
 - 🔭 Ansible/Terraform/Kubernetes learning, [school with WGU](https://partners.wgu.edu/Pages/BSCC.aspx), & [a personal project](https://github.com/jedington/Canvas-Your-Goals) when time permits.
 - :cookie: My interests are: DevOps, Automation, Web Development, WordPress, video game modding & emulators.
-- 🌱 Currently learning/expanding in: JS, Python, RHE Linux, Ansible, Terraform, Kubernetes, Docker.
+- 🌱 Currently learning/expanding in: JS, Python, Linux, Ansible, Terraform, Kubernetes, Docker.
 - :sunrise: Open to collaborate where I can help effectively.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jedington&layout=compact&hide=matlab&langs_count=10&theme=react)
