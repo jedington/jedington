@@ -4,18 +4,17 @@
 
 <p>
 🔭 🔭 🔭 Currently 🔭 🔭 🔭 
-<br />
+
 Ansible / Terraform / Kubernetes learning on-the-job
-<br />
 
 A personal [web app project](https://github.com/jedington/Canvas-Your-Goals) when time permits 
+
+[Cloud Computing school with WGU](https://partners.wgu.edu/Pages/BSCC.aspx)
+
 <br />
 
-[Cloud Computing school with WGU](https://partners.wgu.edu/Pages/BSCC.aspx) 
-<br />
-<br />
 :cookie: :cookie: :cookie: Interests :cookie: :cookie: :cookie:
-<br />
+
 DevOps, Automation, WebDev, Blockchain, video game modding & emulators
 </p>
 
