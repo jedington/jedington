@@ -3,18 +3,20 @@
 [![👋 Hello There!](https://cdn.discordapp.com/attachments/363603833680560139/878781125395378237/hello-there.gif?raw=true)](https://www.youtube.com/watch?v=rEq1Z0bjdwc)
 
 <p>
-    🔭 🔭 🔭 Currently 🔭 🔭 🔭 
-    <br />
-    Ansible / Terraform / Kubernetes learning on-the-job
-    <br />
-    A personal [web app project](https://github.com/jedington/Canvas-Your-Goals) when time permits 
-    <br />
-    [Cloud Computing school with WGU](https://partners.wgu.edu/Pages/BSCC.aspx) 
-    <br />
-    <br />
-    :cookie: :cookie: :cookie: Interests :cookie: :cookie: :cookie:
-    <br />
-    DevOps, Automation, WebDev, Blockchain, video game modding & emulators
+🔭 🔭 🔭 Currently 🔭 🔭 🔭 
+<br />
+Ansible / Terraform / Kubernetes learning on-the-job
+<br />
+
+A personal [web app project](https://github.com/jedington/Canvas-Your-Goals) when time permits 
+<br />
+
+[Cloud Computing school with WGU](https://partners.wgu.edu/Pages/BSCC.aspx) 
+<br />
+<br />
+:cookie: :cookie: :cookie: Interests :cookie: :cookie: :cookie:
+<br />
+DevOps, Automation, WebDev, Blockchain, video game modding & emulators
 </p>
 
 <p>
@@ -46,17 +48,18 @@
     <img alt="Jenkins" src="https://img.shields.io/badge/Tool-Jenkins-informational?style=flat&logo=Jenkins&color=FF0000" />
 </p>
 
-<p>
-    ![](https://github-readme-stats.vercel.app/api?username=jedington&layout=compact&count_private=true&show_icons=true&hide=issues&hide_title=true&theme=react)
-    <br />
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jedington&layout=compact&langs_count=10&theme=react)
-    <br />
-    [![LinkedIn][linkedin-shield]][linkedin-url]
-    [![Twitch][twitch-shield]][twitch-url]
-    [![Instagram][instagram-shield]][instagram-url]
-    <br />
-    [![Twitter][twitter-shield]][twitter-url]
-</p>
+
+![](https://github-readme-stats.vercel.app/api?username=jedington&layout=compact&count_private=true&show_icons=true&hide=issues&hide_title=true&theme=react)
+<br />
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jedington&layout=compact&langs_count=10&theme=react)
+<br />
+
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Twitch][twitch-shield]][twitch-url]
+[![Instagram][instagram-shield]][instagram-url]
+<br />
+[![Twitter][twitter-shield]][twitter-url]
 
 Apps used for profile: [Readme Stats](https://github-readme-stats.vercel.app) • [Shields.io](https://shields.io)
 
