@@ -43,7 +43,6 @@ DevOps, Automation, WebDev, Blockchain, video game modding & emulators
 </p>
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
 [![Instagram][instagram-shield]][instagram-url]
 [![Twitter][twitter-shield]][twitter-url]
 
