@@ -48,7 +48,7 @@ DevOps, Automation, WebDev, Blockchain, video game modding & emulators
 
 ![](https://github-readme-stats.vercel.app/api?username=jedington&layout=compact&count_private=true&show_icons=true&hide=issues&hide_title=true&theme=react)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jedington&layout=compact&langs_count=10&theme=react)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jedington&layout=compact&hide=html&langs_count=10&theme=react)
 
 Apps used for profile: [Readme Stats](https://github-readme-stats.vercel.app) • [Shields.io](https://shields.io)
 </div>
