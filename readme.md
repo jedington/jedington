@@ -39,6 +39,7 @@ DevOps, Automation, WebDev, Blockchain, video game modding & emulators
 
 <p>
     🌱 🌱 🌱 Collab Tools/Platforms 🌱 🌱 🌱
+    <br />
     <img alt="Git" src="https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=Git&color=bd2c00" />
     <img alt="Jenkins" src="https://img.shields.io/badge/Tool-Jenkins-informational?style=flat&logo=Jenkins&color=FF0000" />
     <img alt="GitLab" src="https://img.shields.io/badge/Tool-GitLab-informational?style=flat&logo=GitLab&color=e24329" />
