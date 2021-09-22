@@ -28,50 +28,57 @@ DevOps, Automation, WebDev, Blockchain, video game modding & emulators
 <p>
     🌱 🌱 🌱 DevOps Learning 🌱 🌱 🌱
     <br />
-    <img alt="Terraform" src="https://img.shields.io/badge/IaC-Terraform-informational?style=flat&logo=Terraform&color=6B3FA0" />
     <img alt="Ansible" src="https://img.shields.io/badge/IaC-Ansible-informational?style=flat&logo=Ansible&color=ffffff" />
-    <img alt="Python" src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=3776AB" />
+    <img alt="Terraform" src="https://img.shields.io/badge/IaC-Terraform-informational?style=flat&logo=Terraform&color=6B3FA0" />
+    <img alt="PowerShell" src="https://img.shields.io/badge/Code-PowerShell-informational?style=flat&logo=PowerShell&color=44A4F2" />
     <br />
+    <img alt="Python" src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=3776AB" />
     <img alt="Docker" src="https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=Docker&color=2C8EBB" />
     <img alt="Kubernetes" src="https://img.shields.io/badge/Tool-Kubernetes-informational?style=flat&logo=Kubernetes&color=00205b" />
-    <img alt="Jenkins" src="https://img.shields.io/badge/Tool-Jenkins-informational?style=flat&logo=Jenkins&color=FF0000" />  
-    <br />
-    <img alt="Linux" src="https://img.shields.io/badge/Tool-Linux-informational?style=flat&logo=Linux&color=F5E9A8" />
-    <img alt="PowerShell" src="https://img.shields.io/badge/Code-PowerShell-informational?style=flat&logo=PowerShell&color=44A4F2" />
-    <img alt="VisualStudioCode" src="https://img.shields.io/badge/Tool-VS%20Code-informational?style=flat&logo=VisualStudioCode&color=0078d7" />
 </p>
 
 <p>
-    🌱 🌱 🌱 Main Collab Tools 🌱 🌱 🌱
-    <br />
+    🌱 🌱 🌱 Collab Tools/Platforms 🌱 🌱 🌱
     <img alt="Git" src="https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=Git&color=bd2c00" />
-    <img alt="GitHub" src="https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=GitHub&color=333" />
+    <img alt="Jenkins" src="https://img.shields.io/badge/Tool-Jenkins-informational?style=flat&logo=Jenkins&color=FF0000" />
     <img alt="GitLab" src="https://img.shields.io/badge/Tool-GitLab-informational?style=flat&logo=GitLab&color=e24329" />
     <br />
-    <img alt="Azure" src="https://img.shields.io/badge/Tool-Azure-informational?style=flat&logo=MicrosoftAzure&color=5865F2" />
     <img alt="WordPress" src="https://img.shields.io/badge/Tool-WordPress-informational?style=flat&logo=WordPress&color=21759b" />
-    <img alt="Discord" src="https://img.shields.io/badge/Tool-Discord-informational?style=flat&logo=Discord&color=5865F2" />
-
+    <img alt="Linux" src="https://img.shields.io/badge/Tool-Linux-informational?style=flat&logo=Linux&color=F5E9A8" />
+    <img alt="VisualStudioCode" src="https://img.shields.io/badge/Tool-VS%20Code-informational?style=flat&logo=VisualStudioCode&color=0078d7" />
+    <br />
+    <img alt="GoogleCloudPlatform" src="https://img.shields.io/badge/Tool-GCP-informational?style=flat&logo=GoogleCloud&color=5865F2" />
+    <img alt="AmazonWebServices" src="https://img.shields.io/badge/Tool-AWS-informational?style=flat&logo=AmazonAWS&color=5865F2" />   
+    <img alt="Azure" src="https://img.shields.io/badge/Tool-Azure-informational?style=flat&logo=MicrosoftAzure&color=5865F2" />
 </p>
 
+[![Twitch][twitch-shield]][twitch-url]
+[![Instagram][instagram-shield]][instagram-url] <br />
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![Instagram][instagram-shield]][instagram-url]
+[![Discord][discord-shield]][discord-url] <br />
 [![Twitter][twitter-shield]][twitter-url]
+
+<details>
+  <summary>Github Stats (click here)</summary>
 
 ![](https://github-readme-stats.vercel.app/api?username=jedington&layout=compact&count_private=true&show_icons=true&hide=issues&hide_title=true&theme=react)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jedington&layout=compact&hide=html&langs_count=10&theme=react)
 
+</details>
+
 Apps used for profile: [Readme Stats](https://github-readme-stats.vercel.app) • [Shields.io](https://shields.io)
 </div>
 
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=333
-[linkedin-url]: https://www.linkedin.com/in/julian-edington
-[twitter-shield]: https://img.shields.io/twitter/follow/ArcanicVoid?style=for-the-badge&logo=twitter&colorB=333
-[twitter-url]: https://twitter.com/ArcanicVoid
-[instagram-shield]: https://img.shields.io/badge/-Instagram-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white
-[instagram-url]: https://www.instagram.com/edingtonjulian
 [twitch-shield]: https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white
 [twitch-url]: https://twitch.tv/arcanicvoid
+[instagram-shield]: https://img.shields.io/badge/-Instagram-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white
+[instagram-url]: https://www.instagram.com/edingtonjulian
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=0072B1
+[linkedin-url]: https://www.linkedin.com/in/julian-edington
+[discord-shield]: https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
+[discord-url]: https://discord.io/ArcanicVoid
+[twitter-shield]: https://img.shields.io/twitter/follow/ArcanicVoid?style=for-the-badge&logo=twitter&colorB=1DA1F2
+[twitter-url]: https://twitter.com/ArcanicVoid
 [site-shield]: https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Farcanicvoid.com
 [site-url]: https://arcanicvoid.com
