@@ -66,9 +66,15 @@ DevOps, Automation, WebDev, Blockchain, video game modding & emulators
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jedington&layout=compact&hide=html&langs_count=10&theme=react)
 
+![Snake animation](https://raw.githubusercontent.com/jedington/jedington/output/github-contribution-grid-snake.svg)
+
 </details>
 
-Apps used for profile: [Readme Stats](https://github-readme-stats.vercel.app) • [Shields.io](https://shields.io)
+
+Apps used for profile: 
+[Readme Stats](https://github-readme-stats.vercel.app) • 
+[Shields.io](https://shields.io) • 
+[Snake Game](https://github.com/Platane/snk)
 </div>
 
 [twitch-shield]: https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white
