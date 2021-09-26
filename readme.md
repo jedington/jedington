@@ -13,44 +13,44 @@ DevOps, Automation, WebDev, Blockchain, video game modding & emulators
 <p>
     🌱 🌱 🌱 WebDev Learning 🌱 🌱 🌱
     <br />
-    <img alt="HTML5" src="https://img.shields.io/badge/%20-HTML5-informational?style=flat&logo=HTML5&color=E34F26" />
-    <img alt="CSS3" src="https://img.shields.io/badge/%20-CSS3-informational?style=flat&logo=CSS3&color=1572B6" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/%20-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E" />
+    <img alt="HTML5" src="https://img.shields.io/badge/%20-HTML5-informational?style=flat&logo=HTML5&color=222222" />
+    <img alt="CSS3" src="https://img.shields.io/badge/%20-CSS3-informational?style=flat&logo=CSS3&color=222222" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/%20-JavaScript-informational?style=flat&logo=JavaScript&color=222222" />
     <br />
-    <img alt=".NET Core" src="https://img.shields.io/badge/%20-.NET%20Core-informational?style=flat&logo=dotnet&color=2F3682" />    
-    <img alt="Bootstrap" src="https://img.shields.io/badge/%20-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3" />
-    <img alt="Csharp" src="https://img.shields.io/badge/%20-Csharp-informational?style=flat&logo=Csharp&color=482980" />
-    <!-- <img alt="React.js" src="https://img.shields.io/badge/%20-React-informational?style=flat&logo=react&color=61DAFB" /> -->
-    <!-- <img alt="Node.js" src="https://img.shields.io/badge/%20-Node.js-informational?style=flat&logo=Node.js&color=3D883B" /> -->
-    <!-- <img alt="Golang" src="https://img.shields.io/badge/%20-Golang-informational?style=flat&logo=Go" /> -->
+    <img alt=".NET Core" src="https://img.shields.io/badge/%20-.NET%20Core-informational?style=flat&logo=dotnet&color=222222" />    
+    <img alt="Bootstrap" src="https://img.shields.io/badge/%20-Bootstrap-informational?style=flat&logo=Bootstrap&color=222222" />
+    <img alt="Csharp" src="https://img.shields.io/badge/%20-Csharp-informational?style=flat&logo=Csharp&color=222222" />
+    <!-- <img alt="React.js" src="https://img.shields.io/badge/%20-React-informational?style=flat&logo=react&color=222222" /> -->
+    <!-- <img alt="Node.js" src="https://img.shields.io/badge/%20-Node.js-informational?style=flat&logo=Node.js&color=222222" /> -->
+    <!-- <img alt="Golang" src="https://img.shields.io/badge/%20-Golang-informational?style=flat&logo=Go&color=222222" /> -->
 </p>
 
 <p>
     🌱 🌱 🌱 DevOps Learning 🌱 🌱 🌱
     <br />
-    <img alt="Ansible" src="https://img.shields.io/badge/%20-Ansible-informational?style=flat&logo=Ansible&color=ffffff" />
-    <img alt="Terraform" src="https://img.shields.io/badge/%20-Terraform-informational?style=flat&logo=Terraform&color=6B3FA0" />
-    <img alt="PowerShell" src="https://img.shields.io/badge/%20-PowerShell-informational?style=flat&logo=PowerShell&color=44A4F2" />
+    <img alt="Ansible" src="https://img.shields.io/badge/%20-Ansible-informational?style=flat&logo=Ansible&color=222222" />
+    <img alt="Terraform" src="https://img.shields.io/badge/%20-Terraform-informational?style=flat&logo=Terraform&color=222222" />
+    <img alt="PowerShell" src="https://img.shields.io/badge/%20-PowerShell-informational?style=flat&logo=PowerShell&color=222222" />
     <br />
-    <img alt="Python" src="https://img.shields.io/badge/%20-Python-informational?style=flat&logo=Python&color=3776AB" />
-    <img alt="Docker" src="https://img.shields.io/badge/%20-Docker-informational?style=flat&logo=Docker&color=2C8EBB" />
-    <img alt="Kubernetes" src="https://img.shields.io/badge/%20-Kubernetes-informational?style=flat&logo=Kubernetes&color=00205b" />
+    <img alt="Python" src="https://img.shields.io/badge/%20-Python-informational?style=flat&logo=Python&color=222222" />
+    <img alt="Docker" src="https://img.shields.io/badge/%20-Docker-informational?style=flat&logo=Docker&color=222222" />
+    <img alt="Kubernetes" src="https://img.shields.io/badge/%20-Kubernetes-informational?style=flat&logo=Kubernetes&color=222222" />
 </p>
 
 <p>
-    🌱 🌱 🌱 Collab Tools/Platforms 🌱 🌱 🌱
+    🌱 🌱 🌱 Collab Tools 🌱 🌱 🌱
     <br />
     <img alt="Git" src="https://img.shields.io/badge/%20-Git-informational?style=flat&logo=Git&color=bd2c00" />
-    <img alt="Jenkins" src="https://img.shields.io/badge/%20-Jenkins-informational?style=flat&logo=Jenkins&color=FF0000" />
-    <img alt="GitLab" src="https://img.shields.io/badge/%20-GitLab-informational?style=flat&logo=GitLab&color=e24329" />
+    <img alt="Jenkins" src="https://img.shields.io/badge/%20-Jenkins-informational?style=flat&logo=Jenkins&color=222222" />
+    <img alt="GitLab" src="https://img.shields.io/badge/%20-GitLab-informational?style=flat&logo=GitLab&color=222222" />
     <br />
-    <img alt="WordPress" src="https://img.shields.io/badge/%20-WordPress-informational?style=flat&logo=WordPress&color=21759b" />
-    <img alt="Linux" src="https://img.shields.io/badge/%20-Linux-informational?style=flat&logo=Linux&color=F5E9A8" />
-    <img alt="VisualStudioCode" src="https://img.shields.io/badge/%20-VS%20Code-informational?style=flat&logo=VisualStudioCode&color=0078d7" />
+    <img alt="WordPress" src="https://img.shields.io/badge/%20-WordPress-informational?style=flat&logo=WordPress&color=222222" />
+    <img alt="Linux" src="https://img.shields.io/badge/%20-Linux-informational?style=flat&logo=Linux&color=222222" />
+    <img alt="VisualStudioCode" src="https://img.shields.io/badge/%20-VS%20Code-informational?style=flat&logo=VisualStudioCode&color=222222" />
     <br />
-    <img alt="GoogleCloudPlatform" src="https://img.shields.io/badge/%20-GCP-informational?style=flat&logo=GoogleCloud&color=4285F4" />
-    <img alt="AmazonWebServices" src="https://img.shields.io/badge/%20-AWS-informational?style=flat&logo=AmazonAWS&color=FF9900" />   
-    <img alt="MicrosoftAzure" src="https://img.shields.io/badge/%20-Azure-informational?style=flat&logo=MicrosoftAzure&color=007FFF" />
+    <img alt="GoogleCloudPlatform" src="https://img.shields.io/badge/%20-GCP-informational?style=flat&logo=GoogleCloud&color=222222" />
+    <img alt="AmazonWebServices" src="https://img.shields.io/badge/%20-AWS-informational?style=flat&logo=AmazonAWS&color=222222" />   
+    <img alt="MicrosoftAzure" src="https://img.shields.io/badge/%20-Azure-informational?style=flat&logo=MicrosoftAzure&color=222222" />
 </p>
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
