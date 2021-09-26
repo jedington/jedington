@@ -1,10 +1,10 @@
 # by github.com/Platane/snk -- check their repo out!
-name: Generate Snake Animation
+name: "Generate Snake Animation"
 on:
   schedule: # refresh every 12 hours; not necessary as 'push' is used, but w/e
     - cron: "* */12 * * *"
-  workflow_dispatch: # not used
-  push: # refreshes for every push to master/main branches
+  workflow_dispatch: # manual option; not being used
+  push: # refreshes for every push to master/main/dev branches
     branches:
       - master
       - main
@@ -13,7 +13,7 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate github-contribution-grid-snake.svg
+      - name: "Generate github-contribution-grid-snake.svg"
         uses: Platane/snk@master
         with:
           github_user_name: jedington # ${{ github.repository_owner }}

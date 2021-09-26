@@ -3,9 +3,9 @@
 [![👋 Hello There!](https://cdn.discordapp.com/attachments/363603833680560139/878781125395378237/hello-there.gif?raw=true)](https://www.youtube.com/watch?v=rEq1Z0bjdwc)
 
 🔭 🔭 🔭 Currently 🔭 🔭 🔭 <br />
-Ansible / Terraform / Kubernetes learning on-the-job <br />
+[Cloud Computing school with WGU](https://partners.wgu.edu/Pages/BSCC.aspx) <br />
 A personal [web app project](https://github.com/jedington/Canvas-Your-Goals) when time permits <br />
-[Cloud Computing school with WGU](https://partners.wgu.edu/Pages/BSCC.aspx)
+Ansible / Terraform / Kubernetes learning on-the-job
 
 :cookie: :cookie: :cookie: Interests :cookie: :cookie: :cookie: <br />
 DevOps, Automation, WebDev, Blockchain, video game modding & emulators
@@ -48,15 +48,15 @@ DevOps, Automation, WebDev, Blockchain, video game modding & emulators
     <img alt="Linux" src="https://img.shields.io/badge/Tool-Linux-informational?style=flat&logo=Linux&color=F5E9A8" />
     <img alt="VisualStudioCode" src="https://img.shields.io/badge/Tool-VS%20Code-informational?style=flat&logo=VisualStudioCode&color=0078d7" />
     <br />
-    <img alt="GoogleCloudPlatform" src="https://img.shields.io/badge/Tool-GCP-informational?style=flat&logo=GoogleCloud&color=5865F2" />
-    <img alt="AmazonWebServices" src="https://img.shields.io/badge/Tool-AWS-informational?style=flat&logo=AmazonAWS&color=5865F2" />   
-    <img alt="Azure" src="https://img.shields.io/badge/Tool-Azure-informational?style=flat&logo=MicrosoftAzure&color=5865F2" />
+    <img alt="GoogleCloudPlatform" src="https://img.shields.io/badge/Tool-GCP-informational?style=flat&logo=GoogleCloud&color=4285F4" />
+    <img alt="AmazonWebServices" src="https://img.shields.io/badge/Tool-AWS-informational?style=flat&logo=AmazonAWS&color=FF9900" />   
+    <img alt="Azure" src="https://img.shields.io/badge/Tool-Azure-informational?style=flat&logo=MicrosoftAzure&color=007FFF" />
 </p>
 
-[![Twitch][twitch-shield]][twitch-url]
-[![Instagram][instagram-shield]][instagram-url] <br />
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Discord][discord-shield]][discord-url] <br />
+[![Twitch][twitch-shield]][twitch-url]
+[![Instagram][instagram-shield]][instagram-url] <br />
 [![Twitter][twitter-shield]][twitter-url]
 
 <details>
@@ -70,8 +70,7 @@ DevOps, Automation, WebDev, Blockchain, video game modding & emulators
 
 </details>
 
-
-Apps used for profile: 
+Apps used: 
 [Readme Stats](https://github-readme-stats.vercel.app) • 
 [Shields.io](https://shields.io) • 
 [Snake Game](https://github.com/Platane/snk)
