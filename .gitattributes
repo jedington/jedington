@@ -12,14 +12,6 @@
 *.json linguist-language=JSON
 *.json linguist-documentation=false
 
-Vagrantfile linguist-detectable=true
-Vagrantfile linguist-language=Ruby
-Vagrantfile linguist-documentation=false
-
-Jenkinsfile linguist-detectable=true
-Jenkinsfile linguist-language=Groovy
-Jenkinsfile linguist-documentation=false
-
 #- *.md linguist-language=Markdown
 #- *.md linguist-documentation=false
 #- *.md linguist-detectable=true
