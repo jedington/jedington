@@ -20,6 +20,7 @@ DevOps, Automation, WebDev, Blockchain, video game modding & emulators
     <img alt="HTML5" src="https://img.shields.io/badge/%20-HTML5-informational?style=flat&logo=HTML5&color=222222" />
     <img alt="CSS3" src="https://img.shields.io/badge/%20-CSS3-informational?style=flat&logo=CSS3&color=222222" />
     <img alt="JavaScript" src="https://img.shields.io/badge/%20-JavaScript-informational?style=flat&logo=JavaScript&color=222222" />
+    <br />
     <img alt="React.js" src="https://img.shields.io/badge/%20-React-informational?style=flat&logo=react&color=222222" />
     <img alt="Node.js" src="https://img.shields.io/badge/%20-Node.js-informational?style=flat&logo=Node.js&color=222222" />
     <img alt="Java" src="https://img.shields.io/badge/%20-Java-informational?style=flat&logo=Java&color=222222" />
