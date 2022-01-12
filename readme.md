@@ -23,7 +23,7 @@ DevOps, Automation, WebDev, Blockchain, video game modding & emulators
     <br />
     <img alt="React.js" src="https://img.shields.io/badge/%20-React-informational?style=flat&logo=react&color=222222" />
     <img alt="Node.js" src="https://img.shields.io/badge/%20-Node.js-informational?style=flat&logo=Node.js&color=222222" />
-    <img alt="Java" src="https://img.shields.io/badge/%20-Java-informational?style=flat&logo=Java&color=222222" />
+    <img alt="Python" src="https://img.shields.io/badge/%20-Python-informational?style=flat&logo=Python&color=222222" />
 </p>
 
 <p>
@@ -33,15 +33,13 @@ DevOps, Automation, WebDev, Blockchain, video game modding & emulators
     <img alt="Terraform" src="https://img.shields.io/badge/%20-Terraform-informational?style=flat&logo=Terraform&color=222222" />
     <img alt="PowerShell" src="https://img.shields.io/badge/%20-PowerShell-informational?style=flat&logo=PowerShell&color=222222" />
     <br />
-    <img alt="Python" src="https://img.shields.io/badge/%20-Python-informational?style=flat&logo=Python&color=222222" />
+    <img alt="Vagrant" src="https://img.shields.io/badge/%20-Vagrant-informational?style=flat&logo=Vagrant&color=222222" /> 
     <img alt="Docker" src="https://img.shields.io/badge/%20-Docker-informational?style=flat&logo=Docker&color=222222" />
     <img alt="Kubernetes" src="https://img.shields.io/badge/%20-Kubernetes-informational?style=flat&logo=Kubernetes&color=222222" />
     <br />
     <img alt="Git" src="https://img.shields.io/badge/%20-Git-informational?style=flat&logo=Git&color=222222" />
     <img alt="Jenkins" src="https://img.shields.io/badge/%20-Jenkins-informational?style=flat&logo=Jenkins&color=222222" />
-    <img alt="Vagrant" src="https://img.shields.io/badge/%20-Vagrant-informational?style=flat&logo=Vagrant&color=222222" /> 
-    <!-- <img alt="GitLab" src="https://img.shields.io/badge/%20-GitLab-informational?style=flat&logo=GitLab&color=222222" /> -->
-    <!-- <img alt="Consul" src="https://img.shields.io/badge/%20-Consul-informational?style=flat&logo=Consul&color=222222" /> -->
+    <img alt="Consul" src="https://img.shields.io/badge/%20-Consul-informational?style=flat&logo=Consul&color=222222" />
 </p>
 
 <p>
@@ -50,6 +48,10 @@ DevOps, Automation, WebDev, Blockchain, video game modding & emulators
     <img alt="WordPress" src="https://img.shields.io/badge/%20-WordPress-informational?style=flat&logo=WordPress&color=222222" />
     <img alt="Linux" src="https://img.shields.io/badge/%20-Linux-informational?style=flat&logo=Linux&color=222222" />
     <img alt="VisualStudioCode" src="https://img.shields.io/badge/%20-VS%20Code-informational?style=flat&logo=VisualStudioCode&color=222222" />
+    <br />
+    <img alt="MariaDB" src="https://img.shields.io/badge/%20-MariaDB-informational?style=flat&logo=MariaDB&color=222222" />
+    <img alt="MySQL" src="https://img.shields.io/badge/%20-MySQL-informational?style=flat&logo=MySQL&color=222222" />   
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/%20-Postgres-informational?style=flat&logo=PostgreSQL&color=222222" />
     <br />
     <img alt="GoogleCloudPlatform" src="https://img.shields.io/badge/%20-GCP-informational?style=flat&logo=GoogleCloud&color=222222" />
     <img alt="AmazonWebServices" src="https://img.shields.io/badge/%20-AWS-informational?style=flat&logo=AmazonAWS&color=222222" />   
