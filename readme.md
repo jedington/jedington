@@ -64,13 +64,11 @@ WebDev, DevOps, Automation, Blockchain, video game modding & emulators <br />
 
 <details>
     <summary>Github Stats (click here)</summary>
+    <!-- previous stats source (https://github-readme-stats.vercel.app/) frequently hits request limits, so using an alt source  -->
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jedington&layout=compact&hide=html&langs_count=10&theme=react)
-
-![](https://github-readme-stats.vercel.app/api?username=jedington&layout=compact&count_private=true&show_icons=true&hide=issues&hide_title=true&theme=react)
-
+![](https://readme-stats.clckblog.space/api/top-langs/?username=jedington&layout=compact&theme=react&hide=html&langs_count=10) <br />
+![](https://readme-stats.clckblog.space/api?username=jedington&layout=compact&theme=react&show_icons=true&hide=issues&hide_title=true) <br />
 ![Snake animation](https://raw.githubusercontent.com/jedington/jedington/output/github-contribution-grid-snake.svg)
-
 </details>
 
 Apps used: 
