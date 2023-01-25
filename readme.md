@@ -23,9 +23,11 @@ WebDev, DevOps, Automation, Blockchain, video game modding & emulators <br />
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&color=222222" />
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&color=222222" />
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&color=222222" />
-    <!-- br /> -->
-    <!-- <img alt="Python" src="https://img.shields.io/badge/Python-informational?style=flat&logo=Python&color=222222" /> -->
-    <!-- <img alt="Django" src="https://img.shields.io/badge/Django-informational?style=flat&logo=Django&color=222222" /> -->
+<!--
+    <br />
+    <img alt="Python" src="https://img.shields.io/badge/Python-informational?style=flat&logo=Python&color=222222" />
+    <img alt="Django" src="https://img.shields.io/badge/Django-informational?style=flat&logo=Django&color=222222" /> 
+-->
 </p>
 
 <p>
@@ -57,37 +59,41 @@ WebDev, DevOps, Automation, Blockchain, video game modding & emulators <br />
 </p>
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![Discord][discord-shield]][discord-url] <br />
-[![Twitch][twitch-shield]][twitch-url]
-[![Instagram][instagram-shield]][instagram-url] <br />
-[![Twitter][twitter-shield]][twitter-url]
+[![Instagram][instagram-shield]][instagram-url]
+
+<!--
+    [![Discord][discord-shield]][discord-url]
+    [![Twitch][twitch-shield]][twitch-url]
+    [![Twitter][twitter-shield]][twitter-url]
+-->
 
 <details>
     <summary>Github Stats (click here)</summary>
+    <!-- previous stats source (https://github-readme-stats.vercel.app/) frequently hits request limits, so using an alt source  -->
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jedington&layout=compact&hide=html&langs_count=10&theme=react)
-
-![](https://github-readme-stats.vercel.app/api?username=jedington&layout=compact&count_private=true&show_icons=true&hide=issues&hide_title=true&theme=react)
-
+![](https://readme-stats.clckblog.space/api/top-langs/?username=jedington&layout=compact&theme=react&hide=html&langs_count=10) <br />
+![](https://readme-stats.clckblog.space/api?username=jedington&layout=compact&theme=react&show_icons=true&hide=issues&hide_title=true) <br />
 ![Snake animation](https://raw.githubusercontent.com/jedington/jedington/output/github-contribution-grid-snake.svg)
-
 </details>
 
 Apps used: 
-[Readme Stats](https://github-readme-stats.vercel.app) • 
+[README Stats](https://github-readme-stats.vercel.app) • 
 [Shields.io](https://shields.io) • 
-[Snake](https://github.com/Platane/snk)
+[SNK](https://github.com/Platane/snk)
 </div>
 
-[twitch-shield]: https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white
-[twitch-url]: https://twitch.tv/arcanicvoid
 [instagram-shield]: https://img.shields.io/badge/-Instagram-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white
 [instagram-url]: https://www.instagram.com/edingtonjulian
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=0072B1
 [linkedin-url]: https://www.linkedin.com/in/julian-edington
-[discord-shield]: https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
-[discord-url]: https://discord.io/ArcanicVoid
-[twitter-shield]: https://img.shields.io/twitter/follow/ArcanicVoid?style=for-the-badge&logo=twitter&colorB=1DA1F2
-[twitter-url]: https://twitter.com/ArcanicVoid
-[site-shield]: https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Farcanicvoid.com
-[site-url]: https://arcanicvoid.com
+
+<!--
+    [discord-shield]: https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
+    [discord-url]: https://discord.io/ArcanicVoid
+    [twitch-shield]: https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white
+    [twitch-url]: https://twitch.tv/arcanicvoid
+    [twitter-shield]: https://img.shields.io/twitter/follow/ArcanicVoid?style=for-the-badge&logo=twitter&colorB=1DA1F2
+    [twitter-url]: https://twitter.com/ArcanicVoid
+    [site-shield]: https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Farcanicvoid.com
+    [site-url]: https://arcanicvoid.com
+-->
